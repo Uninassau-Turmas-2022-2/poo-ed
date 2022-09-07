@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e608e352-50b4-4540-a039-47c185716767" name="Default Changelist" comment="" />
+    <list default="true" id="e608e352-50b4-4540-a039-47c185716767" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../aula-online/src/Exercicio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,10 +15,15 @@
       <list>
         <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="2EBVeWweJ44w2AXzVEAYEFCXjhW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,6 +31,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -30,21 +39,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercício15">
-    <configuration name="Exercicio10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio10" />
-      <module name="resolução_entrega_20220828" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio11" />
-      <module name="resolução_entrega_20220828" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Ex3Kt">
     <configuration name="Exercicio12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercicio12" />
       <module name="resolução_entrega_20220828" />
@@ -66,48 +61,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+    <configuration name="E13Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="resolução_entrega_20220828" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
+      <option name="MAIN_CLASS_NAME" value="E13Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+    <configuration name="Ex3Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="resolução_entrega_20220828" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
+      <option name="MAIN_CLASS_NAME" value="Ex3Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Ex3Kt" />
+        <item itemvalue="Kotlin.E13Kt" />
         <item itemvalue="Application.Exercício15" />
         <item itemvalue="Application.Exercício14" />
         <item itemvalue="Application.Exercicio12" />
-        <item itemvalue="Application.Exercicio11" />
-        <item itemvalue="Application.Exercicio10" />
       </list>
     </recent_temporary>
   </component>
@@ -137,50 +111,67 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1860" height="337" key="GridCell.Tab.0.bottom" timestamp="1662221984257">
-      <screen x="-1920" y="23" width="1920" height="1057" />
-    </state>
-    <state width="1860" height="337" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1680.943@-1920.23.1920.1057" timestamp="1662221984257" />
-    <state width="1838" height="366" key="GridCell.Tab.0.bottom/0.23.1920.973@0.23.1920.973" timestamp="1662079919072" />
-    <state width="1860" height="337" key="GridCell.Tab.0.center" timestamp="1662221984256">
-      <screen x="-1920" y="23" width="1920" height="1057" />
-    </state>
-    <state width="1860" height="337" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1680.943@-1920.23.1920.1057" timestamp="1662221984256" />
-    <state width="1838" height="366" key="GridCell.Tab.0.center/0.23.1920.973@0.23.1920.973" timestamp="1662079919072" />
-    <state width="1860" height="337" key="GridCell.Tab.0.left" timestamp="1662221984255">
-      <screen x="-1920" y="23" width="1920" height="1057" />
-    </state>
-    <state width="1860" height="337" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1680.943@-1920.23.1920.1057" timestamp="1662221984255" />
-    <state width="1838" height="366" key="GridCell.Tab.0.left/0.23.1920.973@0.23.1920.973" timestamp="1662079919071" />
-    <state width="1860" height="337" key="GridCell.Tab.0.right" timestamp="1662221984256">
-      <screen x="-1920" y="23" width="1920" height="1057" />
-    </state>
-    <state width="1860" height="337" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1680.943@-1920.23.1920.1057" timestamp="1662221984256" />
-    <state width="1838" height="366" key="GridCell.Tab.0.right/0.23.1920.973@0.23.1920.973" timestamp="1662079919072" />
-    <state width="1860" height="337" key="GridCell.Tab.1.bottom" timestamp="1662221984258">
-      <screen x="-1920" y="23" width="1920" height="1057" />
-    </state>
-    <state width="1860" height="337" key="GridCell.Tab.1.bottom/-1920.23.1920.1057/0.23.1680.943@-1920.23.1920.1057" timestamp="1662221984258" />
-    <state width="1860" height="337" key="GridCell.Tab.1.center" timestamp="1662221984257">
-      <screen x="-1920" y="23" width="1920" height="1057" />
-    </state>
-    <state width="1860" height="337" key="GridCell.Tab.1.center/-1920.23.1920.1057/0.23.1680.943@-1920.23.1920.1057" timestamp="1662221984257" />
-    <state width="1860" height="337" key="GridCell.Tab.1.left" timestamp="1662221984257">
-      <screen x="-1920" y="23" width="1920" height="1057" />
-    </state>
-    <state width="1860" height="337" key="GridCell.Tab.1.left/-1920.23.1920.1057/0.23.1680.943@-1920.23.1920.1057" timestamp="1662221984257" />
-    <state width="1860" height="337" key="GridCell.Tab.1.right" timestamp="1662221984258">
-      <screen x="-1920" y="23" width="1920" height="1057" />
-    </state>
-    <state width="1860" height="337" key="GridCell.Tab.1.right/-1920.23.1920.1057/0.23.1680.943@-1920.23.1920.1057" timestamp="1662221984258" />
-    <state x="0" y="23" key="SettingsEditor" timestamp="1662219380840">
+    <state x="881" y="138" key="#xdebugger.evaluate" timestamp="1662425099653">
       <screen x="0" y="23" width="1680" height="943" />
     </state>
-    <state x="0" y="23" key="SettingsEditor/-1920.23.1920.1057/0.23.1680.943@0.23.1680.943" timestamp="1662219380840" />
-    <state x="338" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1662069064406">
-      <screen x="0" y="23" width="1920" height="973" />
+    <state x="881" y="138" key="#xdebugger.evaluate/-1920.23.1920.1057/0.23.1680.943@0.23.1680.943" timestamp="1662425099653" />
+    <state width="1628" height="350" key="GridCell.Tab.0.bottom" timestamp="1662425682434">
+      <screen x="0" y="23" width="1680" height="943" />
     </state>
+    <state width="1860" height="337" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1680.943@-1920.23.1920.1057" timestamp="1662221984257" />
+    <state width="1628" height="350" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1680.943@0.23.1680.943" timestamp="1662425682434" />
+    <state width="1838" height="366" key="GridCell.Tab.0.bottom/0.23.1920.973@0.23.1920.973" timestamp="1662079919072" />
+    <state width="1628" height="350" key="GridCell.Tab.0.center" timestamp="1662425682433">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state width="1860" height="337" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1680.943@-1920.23.1920.1057" timestamp="1662221984256" />
+    <state width="1628" height="350" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1680.943@0.23.1680.943" timestamp="1662425682433" />
+    <state width="1838" height="366" key="GridCell.Tab.0.center/0.23.1920.973@0.23.1920.973" timestamp="1662079919072" />
+    <state width="1628" height="350" key="GridCell.Tab.0.left" timestamp="1662425682432">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state width="1860" height="337" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1680.943@-1920.23.1920.1057" timestamp="1662221984255" />
+    <state width="1628" height="350" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1680.943@0.23.1680.943" timestamp="1662425682432" />
+    <state width="1838" height="366" key="GridCell.Tab.0.left/0.23.1920.973@0.23.1920.973" timestamp="1662079919071" />
+    <state width="1628" height="350" key="GridCell.Tab.0.right" timestamp="1662425682433">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state width="1860" height="337" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1680.943@-1920.23.1920.1057" timestamp="1662221984256" />
+    <state width="1628" height="350" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1680.943@0.23.1680.943" timestamp="1662425682433" />
+    <state width="1838" height="366" key="GridCell.Tab.0.right/0.23.1920.973@0.23.1920.973" timestamp="1662079919072" />
+    <state width="1628" height="350" key="GridCell.Tab.1.bottom" timestamp="1662425682435">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state width="1860" height="337" key="GridCell.Tab.1.bottom/-1920.23.1920.1057/0.23.1680.943@-1920.23.1920.1057" timestamp="1662221984258" />
+    <state width="1628" height="350" key="GridCell.Tab.1.bottom/-1920.23.1920.1057/0.23.1680.943@0.23.1680.943" timestamp="1662425682435" />
+    <state width="1628" height="350" key="GridCell.Tab.1.center" timestamp="1662425682435">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state width="1860" height="337" key="GridCell.Tab.1.center/-1920.23.1920.1057/0.23.1680.943@-1920.23.1920.1057" timestamp="1662221984257" />
+    <state width="1628" height="350" key="GridCell.Tab.1.center/-1920.23.1920.1057/0.23.1680.943@0.23.1680.943" timestamp="1662425682435" />
+    <state width="1628" height="350" key="GridCell.Tab.1.left" timestamp="1662425682434">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state width="1860" height="337" key="GridCell.Tab.1.left/-1920.23.1920.1057/0.23.1680.943@-1920.23.1920.1057" timestamp="1662221984257" />
+    <state width="1628" height="350" key="GridCell.Tab.1.left/-1920.23.1920.1057/0.23.1680.943@0.23.1680.943" timestamp="1662425682434" />
+    <state width="1628" height="350" key="GridCell.Tab.1.right" timestamp="1662425682435">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state width="1860" height="337" key="GridCell.Tab.1.right/-1920.23.1920.1057/0.23.1680.943@-1920.23.1920.1057" timestamp="1662221984258" />
+    <state width="1628" height="350" key="GridCell.Tab.1.right/-1920.23.1920.1057/0.23.1680.943@0.23.1680.943" timestamp="1662425682435" />
+    <state x="66" y="35" key="SettingsEditor" timestamp="1662416753801">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state x="66" y="35" key="SettingsEditor/-1920.23.1920.1057/0.23.1680.943@0.23.1680.943" timestamp="1662416753801" />
+    <state x="296" y="183" key="com.intellij.ide.util.TipDialog" timestamp="1662416380790">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state x="296" y="183" key="com.intellij.ide.util.TipDialog/-1920.23.1920.1057/0.23.1680.943@0.23.1680.943" timestamp="1662416380790" />
     <state x="338" y="188" key="com.intellij.ide.util.TipDialog/0.23.1920.973@0.23.1920.973" timestamp="1662069064406" />
+    <state x="606" y="401" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1662418087707">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state x="606" y="401" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.23.1920.1057/0.23.1680.943@0.23.1680.943" timestamp="1662418087707" />
     <state x="0" y="23" key="new project wizard" timestamp="1662069214224">
       <screen x="0" y="23" width="1920" height="973" />
     </state>

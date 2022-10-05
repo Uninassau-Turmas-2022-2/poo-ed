@@ -25,5 +25,23 @@ public class Application {
                 conta
         );
         cliente.imprimirInfoCliente();
+        Conta.imprimirQtdDeContas();
+
+        Conta conta2 = new Conta(
+                "000000000-42",
+                10000.00,
+                "corrente",
+                agencia
+        );
+        Cliente cliente2 = new Cliente(
+                "000.000.930-00",
+                "Bruno",
+                conta2
+        );
+        cliente2.imprimirInfoCliente();
+        Conta.imprimirQtdDeContas();
+
     }
+
+
 }

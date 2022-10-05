@@ -5,11 +5,23 @@ public class Conta {
     private String tipo;
     private Agencia agencia;
 
+    private static int qtdDeContas = 0;
+
     public Conta(String numero, Double saldo, String tipo, Agencia agencia) {
         this.numero = numero;
         this.saldo = saldo;
         this.tipo = tipo;
         this.agencia = agencia;
+
+        qtdDeContas++;
+    }
+
+    public static int getQtdDeContas() {
+        return qtdDeContas;
+    }
+
+    public static void imprimirQtdDeContas() {
+        System.out.println("Esse programa tem " + getQtdDeContas() + " contas criadas!");
     }
 
     public void imprimir(){

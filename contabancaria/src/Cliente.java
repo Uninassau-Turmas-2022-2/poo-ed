@@ -16,6 +16,10 @@ public class Cliente {
         System.out.println("Essa conta é de: " + this.getNome());
     }
 
+    public void setNome(String nome){
+        this.nome = nome;
+    }
+
     public String getCpf() {
         return cpf;
     }

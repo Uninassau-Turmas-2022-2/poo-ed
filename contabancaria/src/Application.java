@@ -38,6 +38,7 @@ public class Application {
                 "Bruno",
                 conta2
         );
+        cliente2.setNome("jOÃO");
         cliente2.imprimirInfoCliente();
         Conta.imprimirQtdDeContas();
 

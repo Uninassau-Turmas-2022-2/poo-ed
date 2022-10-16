@@ -52,7 +52,7 @@ public class CarroCorrida {
 
     public void frear(double valorDeFrenagem){
         if (this.ligado) {
-            if(this.velocidadeMin >= this.velocidadeAtual - valorDeFrenagem){
+            if(this.velocidadeMin <= this.velocidadeAtual - valorDeFrenagem){
                 this.velocidadeAtual -= valorDeFrenagem;
                 if (this.velocidadeAtual == 0.0) {
                     System.out.println("O carro parou!");

@@ -19,6 +19,8 @@ public class Application {
         canais.add("Tv cultura");
         canais.add("Rede Globo");
         canais.add("SBT");
+
+        canais.remove(1);
         tv.setCanais(canais);
         tv.imprimir();
         tv.desligar();

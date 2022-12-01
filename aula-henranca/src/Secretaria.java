@@ -9,4 +9,8 @@ public class Secretaria extends Funcionario {
     public void setAgenda(String agenda) {
         this.agenda = agenda;
     }
+
+    public void imprimir(){
+        super.imprimir();
+    }
 }
